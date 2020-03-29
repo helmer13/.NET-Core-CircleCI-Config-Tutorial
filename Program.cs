@@ -7,7 +7,7 @@ namespace Hello_CircleCI
         static void Main(string[] args)
         {
             Console.WriteLine("-----------------------------------------------");
-            Console.WriteLine("Hello CircleCI! I greet you from Lagos Nigeria!");
+            Console.WriteLine("Hola, ¿Comó Estan?");
             Console.WriteLine("-----------------------------------------------");
         } 
     }
