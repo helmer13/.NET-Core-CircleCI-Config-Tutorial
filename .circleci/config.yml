@@ -17,7 +17,7 @@ jobs:
          name: Run App
          command:
            dotnet run
-    #  - run:
-    #     name: Test
-    #      command:
-    #          dotnet test --no-build Test
+     - run:
+        name: Test
+         command:
+             dotnet test 
