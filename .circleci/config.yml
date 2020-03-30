@@ -17,4 +17,4 @@ jobs:
          name: Run App
          command:
            dotnet run
-      run: dotnet test --no-build UnitTest1
+      run: dotnet test --no-build Test
